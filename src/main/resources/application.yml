@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+<<<<<<< HEAD
+    url: jdbc:mysql://mysqldb:3306/bluepal
+=======
+>>>>>>> 7be5782c64c6204f1c4ee2ae46bb0ff8022e14c2
+    username: root
+    password: Papun@9348
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+<<<<<<< HEAD
+=======
+
+jakarta.persistence.jdbc.url:jdbc:mysql://mysqldb:3306/bluepal
+
+
+>>>>>>> 7be5782c64c6204f1c4ee2ae46bb0ff8022e14c2
