@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://mysqldb:3306/bluepal
+    url: jdbc:mysql://localhost:3306/bluepal?useSSL=false
     username: root
     password: Papun@9348
   jpa:
